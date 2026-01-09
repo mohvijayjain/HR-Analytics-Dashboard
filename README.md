@@ -150,5 +150,3 @@ The analysis helps HR teams understand employee behavior and reduce attrition th
 * Skills: Power BI, Python, Data Analysis, Visualization
 
 ---
-
-Just tell me 🔥
